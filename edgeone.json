@@ -1,8 +1,0 @@
-{
-  "build": {
-    "command": "",
-    "outputDirectory": "."
-  },
-  "framework": "none",
-  "functions": false
-}
